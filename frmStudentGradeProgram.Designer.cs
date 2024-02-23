@@ -1,6 +1,6 @@
 ﻿namespace StudentGradeApplication
 {
-    partial class Form1
+    partial class frmStudentGradeProgram
     {
         /// <summary>
         /// Required designer variable.
